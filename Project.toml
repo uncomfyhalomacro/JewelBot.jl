@@ -3,6 +3,9 @@ uuid = "003074ae-487d-482c-8d8d-6fc3fce1b6f9"
 authors = ["Soc Virnyl S. Estela <socvirnyl.estela@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Dizkord = "c8b112a7-7677-4d35-8651-7c5b5cba290e"
+
 [compat]
 julia = "1"
 
