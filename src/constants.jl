@@ -1,0 +1,4 @@
+global DISCORD_TOKEN = ENV["DISCORD_TOKEN"]
+global GUILD_ID = ENV["GUILD_ID"]
+global APPLICATION_ID = tryparse(Int, ENV["APPLICATION_ID"])
+
